@@ -1,0 +1,1 @@
+# Prove-vptr-pointer-exists
